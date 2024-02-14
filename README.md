@@ -61,7 +61,4 @@ The "Translations" directory stores files related to internationalization (i18n)
 This folder serves as a container for utility functions and helper modules that are used across different parts of the application. These utility functions typically provide common functionalities, reusable logic, or perform specific tasks that are needed in multiple areas of the codebase.  
 
 
-
-
-
-# Happy Coding!
+<h1 align="center">Happy coding 👨‍💻</h1>
